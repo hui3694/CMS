@@ -58,3 +58,7 @@ E:\web\CMS\CMS\CMS\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 E:\web\CMS\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
 E:\web\CMS\CMS\CMS\obj\Debug\CMS.dll
 E:\web\CMS\CMS\CMS\obj\Debug\CMS.pdb
+E:\web\CMS\CMS\CMS\bin\EntityFramework.dll
+E:\web\CMS\CMS\CMS\bin\EntityFramework.SqlServer.dll
+E:\web\CMS\CMS\CMS\bin\EntityFramework.xml
+E:\web\CMS\CMS\CMS\bin\EntityFramework.SqlServer.xml
